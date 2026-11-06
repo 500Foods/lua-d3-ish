@@ -9,19 +9,18 @@ While this project is currently under active development, feel free to give it a
 [![Count Lines of Code](https://github.com/500Foods/lua-pdfkit/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/lua-pdfkit/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```cloc
-Last updated at 2026-11-06 03:58:02 UTC
+Last updated at 2026-11-06 21:24:53 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
+Markdown                         2              8              2             40
 YAML                             2              8             13             37
-Markdown                         1              4              2             23
 -------------------------------------------------------------------------------
-SUM:                             3             12             15             60
+SUM:                             4             16             15             77
 -------------------------------------------------------------------------------
-3 Files were skipped (duplicate, binary, or without source code):
+2 Files were skipped (duplicate, binary, or without source code):
   gitattributes: 1
   gitignore: 1
-  license: 1
 ```
 <!--CLOC-END-->
 
